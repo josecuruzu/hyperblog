@@ -25,13 +25,6 @@ body
     vertical-align: middle;
 }
 
-#cabecera #tagline
-{
-    padding: 0 0 0 1em;
-    font-weight: normal;
-    font-size: 0.8em;
-}
-
 #container
 {
     width: 70%;
@@ -50,3 +43,5 @@ body
     background: white;
     padding: 1em;
 }
+
+#footer{background:#777;color:#fff;text-align:center;padding:.5em}
